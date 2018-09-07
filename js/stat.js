@@ -9,7 +9,7 @@ var GAP = 10;
 var BAR_HEIGHT = 150;
 var BAR_WIDTH = 40;
 var BAR_GAP = 50;
-
+//отступы текста
 var TEXT_GAP = 240;
 var FONT_HEIGHT = 240;
 var FONT_GAP = 40;
